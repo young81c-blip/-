@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">智点任务</string>
+    <string name="nav_tasks">任务</string>
+    <string name="nav_sandbox">执行台</string>
+    <string name="nav_inspector">识别拾取</string>
+    <string name="nav_logs">日志</string>
+    <string name="compliance_badge">Play Creator 合规沙盒引擎</string>
+    <string name="action_new_task">新建任务</string>
+    <string name="action_run">运行</string>
+    <string name="action_stop">停止</string>
+    <string name="action_save">保存任务</string>
+    <string name="action_back">返回</string>
+    <string name="empty_tasks_title">暂无自动化任务</string>
+    <string name="empty_tasks_subtitle">点击右下角“新建任务”，或前往“识别拾取”从截图中提取文字或图像模板。</string>
+</resources>

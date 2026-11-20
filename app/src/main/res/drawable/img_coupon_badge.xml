@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Coral-orange rounded square badge -->
+    <path
+        android:fillColor="#EA580C"
+        android:pathData="M18,12 H78 A6,6 0 0,1 84,18 V78 A6,6 0 0,1 78,84 H18 A6,6 0 0,1 12,78 V18 A6,6 0 0,1 18,12 Z" />
+    <!-- White geometric ticket / lightning bolt -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,20 L31,51 H46 L42,76 L66,44 H50 Z" />
+    <!-- Cyan corner dot -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M71,24 A5,5 0 1,0 71,34 A5,5 0 1,0 71,24 Z" />
+</vector>

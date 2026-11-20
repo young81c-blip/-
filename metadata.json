@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix 智点任务",
+  "description": "基于本地 OCR 文字识别与图像模板匹配的合规自动化点击任务编排与沙盒执行工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
